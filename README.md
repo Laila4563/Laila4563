@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <b>Senior Computer Science Student @ Misr International University | AI Explorer | Full-Stack Creator</b>
+  <b>Senior Computer Science Student @ Misr International University | AI Engineer | Data Scientist | Full-Stack Developer
 </p>
 
 ---
